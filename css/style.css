@@ -28,7 +28,7 @@ a {
 
 .container {
     height: 100vh;
-    background-image: url('/images/form-bg.jpg');
+    background-image: url('../images/form-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
