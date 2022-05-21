@@ -152,7 +152,7 @@ button[type='submit']:hover {
 
 .footer {
     font-size: 1.2rem;
-    position: absolute;
+    position: fixed;
     bottom: -20px;
     right: 800px;
 }
