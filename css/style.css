@@ -129,6 +129,12 @@ button[type='submit']:hover {
     margin-left: 30px;
 }
 
+.pass {
+    border: #4aee9c 2px solid;
+    outline: none;
+
+}
+
 .error {
     border: #e61e1e 2px solid;
     outline: none;
